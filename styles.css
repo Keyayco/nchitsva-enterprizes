@@ -104,7 +104,7 @@ h2 { font-size: clamp(38px, 5vw, 62px); }
 .service-icon svg { width: 29px; height: 29px; }
 .service-card-featured .service-icon svg { width: 45px; height: 45px; }
 .service-card h3 { margin: 18px 0 8px; font-size: 20px; letter-spacing: -.04em; }
-.service-card p { max-width: 270px; margin: 0; color: var(--grey); font-size: 13px; line-height: 1.6; }
+.service-card p { max-width: 270px; margin: 0 0 46px; color: var(--grey); font-size: 13px; line-height: 1.6; }
 .service-card-featured p { color: var(--grey-light); }
 .text-link { position: absolute; bottom: 24px; left: 24px; color: var(--black); font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: .04em; text-transform: uppercase; }
 .text-link span { padding-left: 8px; color: var(--grey); font-size: 15px; transition: padding .2s ease; }
