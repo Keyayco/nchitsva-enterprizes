@@ -234,7 +234,7 @@ h2 { font-size: clamp(38px, 5vw, 62px); }
   .service-card, .service-card-featured { min-height: 260px; }
   .service-card-featured .service-icon { margin-top: 45px; }
   .service-card h3 { font-size: 19px; }
-  .service-card p { max-width: 310px; }
+  .service-card p { max-width: 310px; margin-bottom: 46px; }
   .about-grid, .contact-grid { grid-template-columns: 1fr; gap: 48px; }
   .about-panel { min-height: 370px; }
   .about-zebra { font-size: 220px; }
